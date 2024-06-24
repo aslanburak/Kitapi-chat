@@ -1,6 +1,6 @@
 # KitAPI Projemizin Tanıtımı 
 
-
+<img src="https://github.com/aslanburak/Kitapi-chat/blob/main/imgs/chat.png" width="800px" height="auto">
 
 KitAPI, kullanıcıların kitapları keşfetmelerine, listeler oluşturmalarına ve yapay zeka destekli öneriler alarak okuma deneyimlerini zenginleştirmelerine yardımcı olan bir web uygulamasıdır. Bu proje, Yazılım Mühendisliği dersi kapsamında geliştirilmiştir. 
 
