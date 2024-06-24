@@ -1,13 +1,12 @@
 # KitAPI Projemizin Tanıtımı 
 
 <img src="https://github.com/aslanburak/Kitapi-chat/blob/main/imgs/chat.png" width="800px" height="auto">
+<img src="https://github.com/aslanburak/Kitapi-chat/blob/main/imgs/ana.png" width="800px" height="auto">
 
 KitAPI, kullanıcıların kitapları keşfetmelerine, listeler oluşturmalarına ve yapay zeka destekli öneriler alarak okuma deneyimlerini zenginleştirmelerine yardımcı olan bir web uygulamasıdır. Bu proje, Yazılım Mühendisliği dersi kapsamında geliştirilmiştir. 
 
-Projemizi tanıttığımız bir video hazırladık. [Buradan](https://youtu.be/4hCMBIs0D4Q) ulaşabilirsiniz.
- 
 
-## Proje Ekibi 
+ ## Proje Ekibi 
 
 - **[Esranur SEVİLMİŞ](https://github.com/esranursevilmis):** Frontend Geliştirme
 
@@ -67,10 +66,6 @@ KitAPI, kullanıcıların kitapları keşfetmeleri, kişisel listeler oluşturma
 
 
 
-## Metodoloji  
-Yazılım geliştirmede MVC tarzı bir yol izledik.
-
-![metodoloji](https://raw.githubusercontent.com/KitAPI-YAZMUH/Kitapi/main/imgs/metodoloji.PNG)
 
 ## Kurulum 
 
@@ -153,23 +148,6 @@ Yazılım geliştirmede MVC tarzı bir yol izledik.
 
   
 
-## Katkıda Bulunma 
-
-  
-
-Katkılarınızı memnuniyetle karşılıyoruz. Lütfen aşağıdaki adımları izleyin: 
-
-  
-
-1. Bu depoyu fork'layın. 
-
-2. Yeni bir dal oluşturun: `git checkout -b yeni-ozellik` 
-
-3. Değişikliklerinizi commit'leyin: `git commit -m 'Yeni özellik ekle'` 
-
-4. Dalınıza push'layın: `git push origin yeni-ozellik` 
-
-5. Bir pull request oluşturun. 
 
    
 
